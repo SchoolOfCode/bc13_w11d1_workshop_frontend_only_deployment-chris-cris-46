@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img
-          src="https://www.logodesign.net/images/home-page-logo-03.png"
+          src="https://i0.wp.com/esparadis.co.uk/wp-content/uploads/2018/04/instagram-Logo-PNG-Transparent-Background-download.png"
           className="App-logo"
           alt="logo"
         />
